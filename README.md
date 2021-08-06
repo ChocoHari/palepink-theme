@@ -5,7 +5,7 @@ This theme was made using yo generator-code and vsce. Following the [instruction
 And with the help of [this](https://coder-coder.com/vs-code-theme-color-generator/) tool.
 Only compatible with VSCode.
 
-## Release 0.0.1
+## Release 1.0.0
 * This is it's first major release
 * Updates might occur in a few months
 
