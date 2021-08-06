@@ -8,7 +8,7 @@ All notable changes to the "palepink-theme" extension will be documented in this
 - Dark Version
 - Minor updates
 
-## Initial release [0.0.1]
+## Initial release [1.0.0]
 - Git local repository created
 - Debugged and tested
 - Commited changes 

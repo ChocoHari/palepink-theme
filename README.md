@@ -1,4 +1,4 @@
-# Palepink theme v0.0.1
+# Palepink theme v1.0.0
 ## About the theme
 
 This theme was made using yo generator-code and vsce. Following the [instructions](https://www.youtube.com/watch?v=pGzssFNtWXw) of Coder Coder. 

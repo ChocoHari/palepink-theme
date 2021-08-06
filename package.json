@@ -2,7 +2,23 @@
     "name": "palepink-theme",
     "displayName": "Palepink theme",
     "description": "Another palepink theme for VSCode",
-    "version": "0.0.1",
+    "version": "1.0.0",
+    "publisher": "ChocoHari",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ChocoHari/palepink-theme"
+    },
+    "keywords": [
+        "theme",
+        "light theme",
+        "pink theme",
+        "chocohari",
+        "palepink",
+        "palepink theme",
+        "pale pink theme",
+        "choco hari",
+        "dark theme"
+    ],
     "engines": {
         "vscode": "^1.59.0"
     },
