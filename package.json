@@ -1,0 +1,21 @@
+{
+    "name": "palepink-theme",
+    "displayName": "Palepink theme",
+    "description": "Another palepink theme for VSCode",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Palepink Theme",
+                "uiTheme": "vs",
+                "path": "./themes/Palepink Theme-color-theme.json"
+            }
+        ]
+    }
+}
